@@ -1,0 +1,11 @@
+
+TradeSkillMasterDB = {
+	["profileKeys"] = {
+		["Trihard - Apollo 3"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["infoMessage"] = 10,
+		},
+	},
+}

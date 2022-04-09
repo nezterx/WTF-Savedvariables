@@ -1,0 +1,15 @@
+
+TradeSkillMaster_ShoppingDB = {
+	["profileKeys"] = {
+		["Trihard - Apollo 3"] = "Trihard - Apollo 3",
+	},
+	["profiles"] = {
+		["Trihard - Apollo 3"] = {
+			["version"] = 1,
+			["dealfinding"] = {
+				["DealfindingList"] = {
+				},
+			},
+		},
+	},
+}

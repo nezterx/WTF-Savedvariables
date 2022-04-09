@@ -1,0 +1,117 @@
+
+combusettingstable = {
+	["combuignitereport"] = true,
+	["combutrack"] = true,
+	["combuflamestrike"] = true,
+	["combuffb"] = false,
+	["combureport"] = true,
+	["bgcolorcombustion"] = {
+		0, -- [1]
+		0.7, -- [2]
+		0, -- [3]
+		0.5, -- [4]
+	},
+	["bgcolorimpact"] = {
+		1, -- [1]
+		0.82, -- [2]
+		0, -- [3]
+		0.5, -- [4]
+	},
+	["tileSize"] = 16,
+	["textcolorvalid"] = {
+		0, -- [1]
+		1, -- [2]
+		0, -- [3]
+		1, -- [4]
+	},
+	["language"] = "Default",
+	["insets"] = 5,
+	["combuimpact"] = true,
+	["tile"] = true,
+	["combubartimers"] = false,
+	["combulbtracker"] = true,
+	["combufadeinspeed"] = 2,
+	["combulbup"] = true,
+	["combutimervalue"] = 2,
+	["combuignitedelta"] = 0,
+	["combuignitepredict"] = true,
+	["combubarwidth"] = 24,
+	["combureportmunching"] = true,
+	["combuchat"] = true,
+	["combufadeoutspeed"] = 2,
+	["combuwaitfade"] = 86,
+	["combulbleft"] = false,
+	["combufontname"] = "Friz Quadrata TT",
+	["barcolornormal"] = {
+		0, -- [1]
+		0.5, -- [2]
+		0.8, -- [3]
+		1, -- [4]
+	},
+	["textcolorwarning"] = {
+		1, -- [1]
+		0, -- [2]
+		0, -- [3]
+		1, -- [4]
+	},
+	["combuafterfade"] = 15,
+	["combuscale"] = 1,
+	["combureportvalue"] = 0,
+	["combulbright"] = false,
+	["textcolornormal"] = {
+		1, -- [1]
+		1, -- [2]
+		1, -- [3]
+		1, -- [4]
+	},
+	["edgeFile"] = "Blizzard Tooltip",
+	["combucrit"] = true,
+	["bgcolornormal"] = {
+		0.25, -- [1]
+		0.25, -- [2]
+		0.25, -- [3]
+		1, -- [4]
+	},
+	["barcolorwarning"] = {
+		1, -- [1]
+		0, -- [2]
+		0, -- [3]
+		1, -- [4]
+	},
+	["combulbdown"] = false,
+	["combureportthreshold"] = false,
+	["bgFile"] = "Blizzard Tooltip",
+	["combulbtarget"] = true,
+	["combufadealpha"] = 0,
+	["comburefreshmode"] = true,
+	["combutexturename"] = "CombuBar",
+	["buttontexturevalid"] = "InterfaceAddOnsCombustionHelperImagesCombustionon",
+	["combulock"] = false,
+	["combureportpyro"] = true,
+	["buttontexturewarning"] = "InterfaceAddOnsCombustionHelperImagesCombustionoff",
+	["combuautohide"] = 1,
+	["combubeforefade"] = 15,
+	["combusoundname"] = "CombustionHelper Volcano",
+	["edgeSize"] = 16,
+	["thresholdalert"] = true,
+	["edgecolornormal"] = {
+		0.67, -- [1]
+		0.67, -- [2]
+		0.67, -- [3]
+		1, -- [4]
+	},
+}
+CombuCautlevelvar = 10
+CombuCautscalevar = 1
+CombuCautalphavar = 1
+CombuCautlockvar = false
+CombuCauthidevar = false
+CombuCautTimevar = true
+CombuCautChatRaidvar = true
+CombuCautChatSayvar = true
+CombuCautChatYellvar = false
+CombuCautAnnouncevar = "Cauterizing. Heal me up, please !!"
+CombuCautChatAltvar = false
+CombuCautAnnounceAltvar = "Cauterizing but got Ice Block ready, don't worry."
+CombuCautChatAlonevar = true
+CombuCautenablevar = true

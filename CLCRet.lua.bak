@@ -1,0 +1,13 @@
+
+clcretDB = {
+	["profileKeys"] = {
+		["Pia - Apollo 2"] = "Pia - Apollo 2",
+	},
+	["profiles"] = {
+		["Pia - Apollo 2"] = {
+			["y"] = 440.0001285680102,
+			["x"] = 823.0003224458341,
+			["adjustHPBar"] = false,
+		},
+	},
+}

@@ -1,0 +1,19 @@
+
+TradeSkillMaster_AuctionDBDB = {
+	["profiles"] = {
+		["Default"] = {
+			["scanSelections"] = {
+				["Inscription"] = true,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Trihard - Apollo 3"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Apollo 3"] = {
+			["time"] = 10,
+			["scanData"] = "",
+		},
+	},
+}

@@ -1,0 +1,20 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["Nezter - Apollo 2"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["barslocked"] = true,
+					["spark"] = false,
+					["barwidth"] = 462.7691431587475,
+					["background"] = {
+						["height"] = 190.7691883481001,
+					},
+				}, -- [1]
+			},
+		},
+	},
+}

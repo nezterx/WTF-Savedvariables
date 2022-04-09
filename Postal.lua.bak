@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Vapenation|Apollo 2|Horde|85|ROGUE", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Vapenation - Apollo 2"] = "Vapenation - Apollo 2",
+	},
+	["profiles"] = {
+		["Vapenation - Apollo 2"] = {
+		},
+	},
+}

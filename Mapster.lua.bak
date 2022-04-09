@@ -1,0 +1,31 @@
+
+MapsterDB = {
+	["namespaces"] = {
+		["GroupIcons"] = {
+		},
+		["Coords"] = {
+		},
+		["FogClear"] = {
+			["profiles"] = {
+				["Default"] = {
+					["colorB"] = 0.05882352941176471,
+					["colorA"] = 0.3400000333786011,
+					["colorG"] = 0,
+				},
+			},
+		},
+		["BattleMap"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Nezter - Apollo 2"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["point"] = "CENTER",
+			["scale"] = 0.8297252058982849,
+			["x"] = -9.180714263350183,
+			["y"] = 35.38560734942894,
+		},
+	},
+}

@@ -1,0 +1,20 @@
+
+AtlasOptions = {
+	["AtlasSortBy"] = 4,
+	["AtlasCtrl"] = false,
+	["AtlasAlpha"] = 1,
+	["AtlasButtonRadius"] = 78,
+	["AtlasAutoSelect"] = false,
+	["AtlasScale"] = 1,
+	["AtlasClamped"] = true,
+	["AtlasAcronyms"] = true,
+	["AtlasType"] = 5,
+	["AtlasButtonShown"] = true,
+	["AtlasVersion"] = "1.18.2",
+	["AtlasButtonPosition"] = 350.0280695058441,
+	["AtlasRightClick"] = false,
+	["AtlasZone"] = 1,
+	["AtlasLocked"] = false,
+	["AtlasBossDesc"] = true,
+	["AtlasBossDescScale"] = 0.8999999761581421,
+}

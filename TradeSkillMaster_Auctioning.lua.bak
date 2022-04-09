@@ -1,0 +1,17 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Trihard - Apollo 3"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Apollo 3"] = {
+			["player"] = {
+				["Trihard"] = true,
+			},
+		},
+	},
+}

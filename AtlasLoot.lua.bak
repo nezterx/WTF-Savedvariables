@@ -1,0 +1,32 @@
+
+AtlasLootDB = {
+	["namespaces"] = {
+		["DefaultFrame"] = {
+			["profiles"] = {
+				["Nezter - Apollo 2"] = {
+					["NEWpoint"] = {
+						"LEFT", -- [1]
+						nil, -- [2]
+						"LEFT", -- [3]
+						249.999815217679, -- [4]
+						5.000004445170565, -- [5]
+					},
+				},
+			},
+		},
+		["AtlasLootPanel"] = {
+		},
+		["WishList"] = {
+		},
+		["Filter"] = {
+		},
+	},
+	["showWarning"] = true,
+	["profileKeys"] = {
+		["Nezter - Apollo 2"] = "Nezter - Apollo 2",
+	},
+	["profiles"] = {
+		["Nezter - Apollo 2"] = {
+		},
+	},
+}

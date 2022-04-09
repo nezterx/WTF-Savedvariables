@@ -1,0 +1,10 @@
+
+RCLootCouncilDB = {
+	["profileKeys"] = {
+		["Nebzter - Apollo 3"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
